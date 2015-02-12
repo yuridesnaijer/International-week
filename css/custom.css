@@ -37,12 +37,16 @@ h1, h2{
 .spacer-home{height: 300px;}
 
 .spacer{
+    height: 400px;
+}
+
+.viewfinder{
     background-image:  url("../images/viewfinder.png");
     background-position: center;
     background-size: contain;
     background-repeat: no-repeat;
-    height: 400px;
 }
+
 .scan{
     border-radius: 15px;
     padding: 6px;
